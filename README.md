@@ -93,6 +93,20 @@ Single-direction relationships were used to maintain an optimized data model.
 
 ---
 
+## 🎯 Business Objectives
+
+The analysis was designed to answer key business questions:
+
+- Which countries generate the highest revenue and profit?
+- Which products are the top and bottom performers?
+- Which brands contribute the most revenue?
+- Which product categories generate the highest profitability?
+- How does customer behavior vary across age groups?
+- What is the gender distribution across product categories?
+- How does revenue and profitability change over time?
+- Which customer segments contribute most to business performance?
+---
+
 # Dashboard Pages
 
 ## Executive Overview
