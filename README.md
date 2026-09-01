@@ -231,15 +231,7 @@ Possible future improvements include:
 
 # Dashboard Preview
 
-(Add screenshots here)
-
-Executive Dashboard
-
-Country Dashboard
-
-Product Dashboard
-
-Customer Dashboard
+![ShopNow Dashboard Demo](images/ShopNow_Dashboard_Demo.gif)
 
 ---
 
