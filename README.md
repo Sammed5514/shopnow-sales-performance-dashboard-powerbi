@@ -234,12 +234,12 @@ Customer Dashboard
 ```
 Sales-Performance-Dashboard/
 │
+└── README.md
 ├── Dataset/
-├── SQL/
+├── shopnow_data_cleaning.sql/
 ├── PowerBI/
 ├── Images/
 ├── Documentation/
-└── README.md
 ```
 
 ---
